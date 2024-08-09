@@ -10,7 +10,6 @@ body{
 .container{
 	background-color: black;
 	display: grid;
-	gap:1px;
 	grid-template-columns: repeat(40, 20px);
 	grid-template-rows: repeat(20, 20px)
 }
