@@ -13,9 +13,9 @@ body {
     grid-template-rows: repeat(20, 20px);
 }
 
-.square {
-    background-color: rgb(128, 128, 128);
-    width: 20px;
-    height: 20px;
+.square{
+    background-color: "rgb(128, 128, 128)" ;
+    width:10px;
+    height:10px;
     transition: background-color 1s;
 }
