@@ -13,7 +13,7 @@ squares.forEach(square => {
     square.addEventListener('mouseover', () => {
         square.style.backgroundColor = 'orange';
         setTimeout(() => {
-            square.style.backgroundColor = 'rgb(128, 128, 128)';
+            square.style.backgroundColor = 'rgb(29, 29, 29)';
         }, 1000);
     });
 });

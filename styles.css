@@ -14,8 +14,7 @@ body {
 }
 
 .square{
-    background-color: "rgb(128, 128, 128)" ;
-    width:10px;
+    background-color: "rrgb(29, 29, 29)";
     height:10px;
     transition: background-color 1s;
 }
